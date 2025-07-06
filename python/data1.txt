@@ -1,0 +1,4 @@
+我是C++
+我为Python代言
+hello,world
+I become a master
